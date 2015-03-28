@@ -26,3 +26,5 @@ You always know you can revert back to a previous version very quickly.  Like ha
 Now that you have your workspace set up, what do you want to try using Git for?
 
 Will come in handy for the JavaScript course that I want to start soon!
+
+*** THE END ***
